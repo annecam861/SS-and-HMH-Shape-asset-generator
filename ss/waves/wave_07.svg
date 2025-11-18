@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Layered arcs -->
+  <path d="M 0,330 Q 256,280 512,330 L 512,400 L 0,400 Z" fill="#768367" stroke="#2B2F30" stroke-width="4"/>
+  <path d="M 0,300 Q 256,250 512,300 L 512,400 L 0,400 Z" fill="#8B957B" stroke="#2B2F30" stroke-width="4"/>
+</svg>

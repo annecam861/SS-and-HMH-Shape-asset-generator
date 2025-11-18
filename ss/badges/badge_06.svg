@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Square badge rotated -->
+  <rect x="156" y="156" width="200" height="200" transform="rotate(45 256 256)" fill="#BD8467" stroke="#2B2F30" stroke-width="6"/>
+  <rect x="180" y="180" width="152" height="152" transform="rotate(45 256 256)" fill="none" stroke="#E9DAC5" stroke-width="4"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cross accent -->
+  <line x1="180" y1="256" x2="332" y2="256" stroke="#FAD9B5" stroke-width="12" stroke-linecap="round"/>
+  <line x1="256" y1="180" x2="256" y2="332" stroke="#FAD9B5" stroke-width="12" stroke-linecap="round"/>
+</svg>

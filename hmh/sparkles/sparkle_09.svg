@@ -1,0 +1,10 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <!-- Star burst rays -->
+    <polygon points="256,120 266,250 396,260 266,270 256,400 246,270 116,260 246,250" fill="#982176" stroke="#0B2E3A" stroke-width="4"/>
+    <line x1="256" y1="120" x2="256" y2="60" stroke="#DFFA48" stroke-width="8" stroke-linecap="round"/>
+    <line x1="396" y1="260" x2="450" y2="260" stroke="#DFFA48" stroke-width="8" stroke-linecap="round"/>
+    <line x1="256" y1="400" x2="256" y2="454" stroke="#DFFA48" stroke-width="8" stroke-linecap="round"/>
+    <line x1="116" y1="260" x2="62" y2="260" stroke="#DFFA48" stroke-width="8" stroke-linecap="round"/>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Single peak -->
+  <polygon points="100,380 256,120 412,380" fill="#45574A" stroke="#2B2F30" stroke-width="5"/>
+  <polygon points="180,380 256,200 332,380" fill="#7E8B6E" stroke="#2B2F30" stroke-width="3"/>
+</svg>

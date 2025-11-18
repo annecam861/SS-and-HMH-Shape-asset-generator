@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Oval frame -->
+  <ellipse cx="256" cy="256" rx="190" ry="220" fill="none" stroke="#BD8467" stroke-width="12"/>
+  <ellipse cx="256" cy="256" rx="170" ry="200" fill="none" stroke="#E9CCA9" stroke-width="6"/>
+</svg>

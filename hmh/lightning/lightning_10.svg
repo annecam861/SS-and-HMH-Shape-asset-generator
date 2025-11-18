@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outlined lightning -->
+  <polygon points="290,70 210,250 260,250 200,440 370,230 310,230 360,70" fill="#FAD9B5" stroke="#0B2E3A" stroke-width="6" stroke-linejoin="round"/>
+  <polygon points="290,110 240,230 270,230 230,370 330,240 300,240 340,110" fill="none" stroke="#008F80" stroke-width="4" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,4 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Tight wave -->
+  <path d="M 0,300 Q 85,270 170,290 Q 256,310 342,290 Q 427,270 512,300 L 512,400 L 0,400 Z" fill="#BD8467" stroke="#2B2F30" stroke-width="5"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Double star -->
+  <polygon points="256,80 285,200 410,200 310,270 340,390 256,320 172,390 202,270 102,200 227,200" fill="#FAD9B5" stroke="#0B2E3A" stroke-width="5"/>
+  <polygon points="256,140 275,220 355,220 290,265 310,345 256,300 202,345 222,265 157,220 237,220" fill="#008F80" stroke="#0B2E3A" stroke-width="4"/>
+</svg>

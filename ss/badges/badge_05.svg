@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Octagon badge -->
+  <polygon points="256,90 350,140 410,234 410,278 350,372 256,422 162,372 102,278 102,234 162,140" fill="#7E8B6E" stroke="#2B2F30" stroke-width="6"/>
+  <polygon points="256,120 330,160 380,240 380,272 330,352 256,392 182,352 132,272 132,240 182,160" fill="none" stroke="#E9DAC5" stroke-width="4"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <!-- Twinkle cluster -->
+    <circle cx="200" cy="200" r="20" fill="#C544C7" stroke="#0B2E3A" stroke-width="3"/>
+    <polygon points="200,150 203,197 250,200 203,203 200,250 197,203 150,200 197,197" fill="#8BC0FF" stroke="#0B2E3A" stroke-width="3"/>
+    <circle cx="320" cy="256" r="35" fill="#FF647D" stroke="#0B2E3A" stroke-width="4"/>
+    <polygon points="320,200 325,253 378,258 325,263 320,316 315,263 262,258 315,253" fill="#DFFA48" stroke="#0B2E3A" stroke-width="3"/>
+    <circle cx="220" cy="340" r="25" fill="#46CAF4" stroke="#0B2E3A" stroke-width="3"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Layered ridges -->
+  <polygon points="0,380 150,260 300,340 512,240 512,400 0,400" fill="#233134" stroke="#2B2F30" stroke-width="4"/>
+  <polygon points="0,340 180,240 350,300 512,200 512,400 0,400" fill="#45574A" stroke="#2B2F30" stroke-width="4"/>
+  <polygon points="0,300 200,220 400,280 512,180 512,400 0,400" fill="#8B957B" stroke="#2B2F30" stroke-width="4"/>
+</svg>

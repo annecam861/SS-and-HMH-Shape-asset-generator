@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Shout bubble -->
+  <path d="M120,180 L150,120 L200,100 L280,100 L340,120 L380,160 L400,220 L390,280 L350,330 L280,360 L200,360 L150,340 L110,300 L100,240 Z" fill="#DFFA48" stroke="#0B2E3A" stroke-width="5" stroke-linejoin="round"/>
+  <polygon points="180,360 150,420 210,370" fill="#DFFA48" stroke="#0B2E3A" stroke-width="5" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,4 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Simple arc wave -->
+  <path d="M 0,320 Q 256,260 512,320 L 512,400 L 0,400 Z" fill="#5F6C6D" stroke="#2B2F30" stroke-width="5"/>
+</svg>

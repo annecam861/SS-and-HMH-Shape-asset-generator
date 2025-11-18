@@ -1,0 +1,7 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Full moon -->
+  <circle cx="256" cy="256" r="100" fill="#C6C2B4" stroke="#2B2F30" stroke-width="5"/>
+  <circle cx="230" cy="230" r="15" fill="#E4D4C1"/>
+  <circle cx="290" cy="250" r="20" fill="#E4D4C1"/>
+  <circle cx="270" cy="290" r="12" fill="#E4D4C1"/>
+</svg>

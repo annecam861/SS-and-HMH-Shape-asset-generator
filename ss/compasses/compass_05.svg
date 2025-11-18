@@ -1,0 +1,7 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Needle compass -->
+  <circle cx="256" cy="256" r="150" fill="none" stroke="#45574A" stroke-width="6"/>
+  <polygon points="256,130 275,240 256,256 237,240" fill="#A85031" stroke="#2B2F30" stroke-width="4"/>
+  <polygon points="256,382 237,272 256,256 275,272" fill="#E9DAC5" stroke="#2B2F30" stroke-width="4"/>
+  <circle cx="256" cy="256" r="15" fill="#2B2F30"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <!-- 4-point starburst -->
+    <polygon points="256,100 270,240 410,254 270,268 256,408 242,268 102,254 242,240" fill="#48F2A7" stroke="#0B2E3A" stroke-width="4"/>
+    <!-- Center sparkle -->
+    <circle cx="256" cy="254" r="30" fill="#FF647D" stroke="#0B2E3A" stroke-width="3"/>
+  </g>
+</svg>

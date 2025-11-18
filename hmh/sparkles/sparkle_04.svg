@@ -1,0 +1,7 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <!-- Elongated vertical sparkle -->
+    <polygon points="256,60 275,240 320,256 275,272 256,452 237,272 192,256 237,240" fill="#008F80" stroke="#0B2E3A" stroke-width="4"/>
+    <ellipse cx="256" cy="256" rx="25" ry="40" fill="#F9A7B0" stroke="#0B2E3A" stroke-width="3"/>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Double wave layers -->
+  <path d="M 0,320 Q 128,280 256,300 Q 384,320 512,280 L 512,400 L 0,400 Z" fill="#244046" stroke="#2B2F30" stroke-width="4"/>
+  <path d="M 0,280 Q 128,240 256,260 Q 384,280 512,240 L 512,400 L 0,400 Z" fill="#45574A" stroke="#2B2F30" stroke-width="4"/>
+</svg>

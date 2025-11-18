@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Highlight mark -->
+  <rect x="120" y="230" width="272" height="52" fill="#DFFA48" opacity="0.7"/>
+  <rect x="120" y="230" width="272" height="52" fill="none" stroke="#0B2E3A" stroke-width="4"/>
+</svg>

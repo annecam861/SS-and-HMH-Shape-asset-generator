@@ -1,0 +1,4 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rounded 5-point star -->
+  <path d="M256,90 L282,205 L400,205 L305,275 L332,390 L256,325 L180,390 L207,275 L112,205 L230,205 Z" fill="#48F2A7" stroke="#0B2E3A" stroke-width="5" stroke-linejoin="round"/>
+</svg>

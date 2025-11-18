@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Swoosh arrow -->
+  <path d="M80,280 Q200,220 320,240 Q400,260 460,220" fill="none" stroke="#FF2EC4" stroke-width="12" stroke-linecap="round"/>
+  <polygon points="460,220 430,240 450,250" fill="#FF2EC4" stroke="#FF2EC4" stroke-width="3"/>
+</svg>

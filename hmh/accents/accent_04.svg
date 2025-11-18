@@ -1,0 +1,4 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Squiggle underline -->
+  <path d="M80,260 Q120,240 160,260 Q200,280 240,260 Q280,240 320,260 Q360,280 400,260 Q440,240 480,260" fill="none" stroke="#A67DFF" stroke-width="10" stroke-linecap="round"/>
+</svg>

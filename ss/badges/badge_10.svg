@@ -1,0 +1,16 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Scalloped circle badge -->
+  <circle cx="256" cy="256" r="140" fill="#E4D4C1" stroke="#2B2F30" stroke-width="6"/>
+  <circle cx="256" cy="116" r="20" fill="#E4D4C1" stroke="#2B2F30" stroke-width="4"/>
+  <circle cx="336" cy="146" r="20" fill="#E4D4C1" stroke="#2B2F30" stroke-width="4"/>
+  <circle cx="386" cy="226" r="20" fill="#E4D4C1" stroke="#2B2F30" stroke-width="4"/>
+  <circle cx="396" cy="256" r="20" fill="#E4D4C1" stroke="#2B2F30" stroke-width="4"/>
+  <circle cx="386" cy="286" r="20" fill="#E4D4C1" stroke="#2B2F30" stroke-width="4"/>
+  <circle cx="336" cy="366" r="20" fill="#E4D4C1" stroke="#2B2F30" stroke-width="4"/>
+  <circle cx="256" cy="396" r="20" fill="#E4D4C1" stroke="#2B2F30" stroke-width="4"/>
+  <circle cx="176" cy="366" r="20" fill="#E4D4C1" stroke="#2B2F30" stroke-width="4"/>
+  <circle cx="126" cy="286" r="20" fill="#E4D4C1" stroke="#2B2F30" stroke-width="4"/>
+  <circle cx="116" cy="256" r="20" fill="#E4D4C1" stroke="#2B2F30" stroke-width="4"/>
+  <circle cx="126" cy="226" r="20" fill="#E4D4C1" stroke="#2B2F30" stroke-width="4"/>
+  <circle cx="176" cy="146" r="20" fill="#E4D4C1" stroke="#2B2F30" stroke-width="4"/>
+</svg>

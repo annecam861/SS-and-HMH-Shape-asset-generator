@@ -1,0 +1,4 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rounded chunky heart -->
+  <path d="M256,440 L110,280 Q70,240 70,170 Q70,100 130,80 Q190,60 230,100 L256,126 L282,100 Q322,60 382,80 Q442,100 442,170 Q442,240 402,280 Z" fill="#A67DFF" stroke="#0B2E3A" stroke-width="6"/>
+</svg>

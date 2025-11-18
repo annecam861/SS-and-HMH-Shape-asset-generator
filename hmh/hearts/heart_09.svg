@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Heart with inner heart -->
+  <path d="M256,430 L115,275 Q75,235 75,175 Q75,115 125,95 Q175,75 215,115 L256,156 L297,115 Q337,75 387,95 Q437,115 437,175 Q437,235 397,275 Z" fill="#8BC0FF" stroke="#0B2E3A" stroke-width="5"/>
+  <path d="M256,360 L180,280 Q160,260 160,230 Q160,200 185,190 Q210,180 225,195 L256,226 L287,195 Q302,180 327,190 Q352,200 352,230 Q352,260 332,280 Z" fill="#DFFA48" stroke="#0B2E3A" stroke-width="3"/>
+</svg>

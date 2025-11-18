@@ -1,0 +1,9 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Segmented compass -->
+  <circle cx="256" cy="256" r="150" fill="none" stroke="#233134" stroke-width="8"/>
+  <line x1="256" y1="106" x2="256" y2="160" stroke="#A85031" stroke-width="8" stroke-linecap="round"/>
+  <line x1="406" y1="256" x2="352" y2="256" stroke="#E4D4C1" stroke-width="8" stroke-linecap="round"/>
+  <line x1="256" y1="406" x2="256" y2="352" stroke="#E4D4C1" stroke-width="8" stroke-linecap="round"/>
+  <line x1="106" y1="256" x2="160" y2="256" stroke="#A85031" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="256" cy="256" r="25" fill="#994B2D" stroke="#2B2F30" stroke-width="4"/>
+</svg>

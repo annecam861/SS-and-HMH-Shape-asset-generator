@@ -1,0 +1,8 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Classic 4-point compass -->
+  <polygon points="256,100 270,246 256,256 242,246" fill="#8B957B" stroke="#2B2F30" stroke-width="5"/>
+  <polygon points="412,256 266,270 256,256 266,242" fill="#45574A" stroke="#2B2F30" stroke-width="5"/>
+  <polygon points="256,412 242,266 256,256 270,266" fill="#45574A" stroke="#2B2F30" stroke-width="5"/>
+  <polygon points="100,256 246,242 256,256 246,270" fill="#8B957B" stroke="#2B2F30" stroke-width="5"/>
+  <circle cx="256" cy="256" r="30" fill="#E9DAC5" stroke="#2B2F30" stroke-width="4"/>
+</svg>

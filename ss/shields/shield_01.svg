@@ -1,0 +1,4 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Classic shield -->
+  <path d="M 256,80 L 400,120 L 400,280 Q 400,380 256,440 Q 112,380 112,280 L 112,120 Z" fill="#8B957B" stroke="#2B2F30" stroke-width="6"/>
+</svg>

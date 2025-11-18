@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Shield-ish badge -->
+  <path d="M 256,90 L 390,150 L 390,280 Q 390,380 256,430 Q 122,380 122,280 L 122,150 Z" fill="#5F6C6D" stroke="#2B2F30" stroke-width="6"/>
+  <path d="M 256,120 L 360,170 L 360,270 Q 360,350 256,390 Q 152,350 152,270 L 152,170 Z" fill="none" stroke="#E9DAC5" stroke-width="4"/>
+</svg>

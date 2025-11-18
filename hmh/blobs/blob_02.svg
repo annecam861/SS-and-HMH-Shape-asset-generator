@@ -1,0 +1,4 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Organic blob shape -->
+  <path d="M120,200 Q100,120 180,100 Q260,80 320,120 Q400,160 410,240 Q420,320 360,370 Q300,420 220,410 Q140,400 110,340 Q80,280 120,200 Z" fill="#FAD9B5" stroke="#0B2E3A" stroke-width="5"/>
+</svg>

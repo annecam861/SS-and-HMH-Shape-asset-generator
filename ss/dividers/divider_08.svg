@@ -1,0 +1,6 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Line with center hexagon -->
+  <line x1="80" y1="256" x2="210" y2="256" stroke="#5F6C6D" stroke-width="6" stroke-linecap="round"/>
+  <line x1="302" y1="256" x2="432" y2="256" stroke="#5F6C6D" stroke-width="6" stroke-linecap="round"/>
+  <polygon points="256,230 280,243 280,269 256,282 232,269 232,243" fill="#C6C2B4" stroke="#2B2F30" stroke-width="4"/>
+</svg>

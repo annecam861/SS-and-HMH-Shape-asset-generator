@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dual-Brand Shape & Badge Asset Gallery</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: #f5f5f5;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            text-align: center;
+            color: #222;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 40px;
+            font-size: 1.1em;
+        }
+
+        .brand-section {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 40px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        .brand-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 30px;
+            padding-bottom: 15px;
+            border-bottom: 3px solid;
+        }
+
+        .brand-header.hmh {
+            border-bottom-color: #FF647D;
+        }
+
+        .brand-header.ss {
+            border-bottom-color: #8B957B;
+        }
+
+        .brand-title {
+            font-size: 2em;
+            font-weight: bold;
+        }
+
+        .brand-title.hmh {
+            color: #0B2E3A;
+        }
+
+        .brand-title.ss {
+            color: #233134;
+        }
+
+        .brand-vibe {
+            margin-left: auto;
+            font-style: italic;
+            color: #666;
+        }
+
+        .category-section {
+            margin-bottom: 35px;
+        }
+
+        .category-title {
+            font-size: 1.5em;
+            color: #333;
+            margin-bottom: 15px;
+            text-transform: capitalize;
+            font-weight: 600;
+        }
+
+        .asset-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+            gap: 20px;
+        }
+
+        .asset-card {
+            background: #fafafa;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            padding: 15px;
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+
+        .asset-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            border-color: #999;
+        }
+
+        .asset-preview {
+            width: 100%;
+            height: 150px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 10px;
+            background: white;
+            border-radius: 6px;
+        }
+
+        .asset-preview img {
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: contain;
+        }
+
+        .asset-name {
+            font-size: 0.85em;
+            color: #555;
+            font-family: 'Courier New', monospace;
+            word-break: break-all;
+        }
+
+        .stats {
+            text-align: center;
+            background: #fff;
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 40px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .stat-item {
+            padding: 15px;
+            background: #f9f9f9;
+            border-radius: 8px;
+        }
+
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #0B2E3A;
+        }
+
+        .stat-label {
+            color: #666;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Dual-Brand Shape & Badge Asset Gallery</h1>
+        <p class="subtitle">Hot Mess Home (HMH) & Sagebrush & Steel (SS)</p>
+
+        <div class="stats" id="stats">
+            <h2>Asset Statistics</h2>
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <div class="stat-number" id="total-assets">0</div>
+                    <div class="stat-label">Total Assets</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number" id="hmh-count">0</div>
+                    <div class="stat-label">HMH Assets</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number" id="ss-count">0</div>
+                    <div class="stat-label">SS Assets</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number" id="category-count">0</div>
+                    <div class="stat-label">Categories</div>
+                </div>
+            </div>
+        </div>
+
+        <div id="gallery"></div>
+    </div>
+
+    <script>
+        async function loadGallery() {
+            try {
+                const response = await fetch('manifest.json');
+                const assets = await response.json();
+
+                // Calculate statistics
+                const hmhAssets = assets.filter(a => a.brand === 'hmh');
+                const ssAssets = assets.filter(a => a.brand === 'ss');
+                const categories = [...new Set(assets.map(a => a.category))];
+
+                document.getElementById('total-assets').textContent = assets.length;
+                document.getElementById('hmh-count').textContent = hmhAssets.length;
+                document.getElementById('ss-count').textContent = ssAssets.length;
+                document.getElementById('category-count').textContent = categories.length;
+
+                // Group assets by brand and category
+                const grouped = {};
+                assets.forEach(asset => {
+                    if (!grouped[asset.brand]) {
+                        grouped[asset.brand] = {};
+                    }
+                    if (!grouped[asset.brand][asset.category]) {
+                        grouped[asset.brand][asset.category] = [];
+                    }
+                    grouped[asset.brand][asset.category].push(asset);
+                });
+
+                // Render gallery
+                const gallery = document.getElementById('gallery');
+
+                // HMH Section
+                if (grouped.hmh) {
+                    const hmhSection = document.createElement('div');
+                    hmhSection.className = 'brand-section';
+                    hmhSection.innerHTML = `
+                        <div class="brand-header hmh">
+                            <div class="brand-title hmh">Hot Mess Home</div>
+                            <div class="brand-vibe">Playful, bold, aesthetic, modern</div>
+                        </div>
+                    `;
+
+                    Object.keys(grouped.hmh).sort().forEach(category => {
+                        const categoryDiv = document.createElement('div');
+                        categoryDiv.className = 'category-section';
+                        categoryDiv.innerHTML = `
+                            <h3 class="category-title">${category.replace(/_/g, ' ')}</h3>
+                            <div class="asset-grid">
+                                ${grouped.hmh[category].map(asset => `
+                                    <div class="asset-card">
+                                        <div class="asset-preview">
+                                            <img src="${asset.file}" alt="${asset.name}">
+                                        </div>
+                                        <div class="asset-name">${asset.name}</div>
+                                    </div>
+                                `).join('')}
+                            </div>
+                        `;
+                        hmhSection.appendChild(categoryDiv);
+                    });
+
+                    gallery.appendChild(hmhSection);
+                }
+
+                // SS Section
+                if (grouped.ss) {
+                    const ssSection = document.createElement('div');
+                    ssSection.className = 'brand-section';
+                    ssSection.innerHTML = `
+                        <div class="brand-header ss">
+                            <div class="brand-title ss">Sagebrush & Steel</div>
+                            <div class="brand-vibe">Rustic-modern, outdoorsy, grounded</div>
+                        </div>
+                    `;
+
+                    Object.keys(grouped.ss).sort().forEach(category => {
+                        const categoryDiv = document.createElement('div');
+                        categoryDiv.className = 'category-section';
+                        categoryDiv.innerHTML = `
+                            <h3 class="category-title">${category.replace(/_/g, ' ')}</h3>
+                            <div class="asset-grid">
+                                ${grouped.ss[category].map(asset => `
+                                    <div class="asset-card">
+                                        <div class="asset-preview">
+                                            <img src="${asset.file}" alt="${asset.name}">
+                                        </div>
+                                        <div class="asset-name">${asset.name}</div>
+                                    </div>
+                                `).join('')}
+                            </div>
+                        `;
+                        ssSection.appendChild(categoryDiv);
+                    });
+
+                    gallery.appendChild(ssSection);
+                }
+
+            } catch (error) {
+                console.error('Error loading gallery:', error);
+                document.getElementById('gallery').innerHTML = '<p style="color: red; text-align: center;">Error loading assets. Please check manifest.json</p>';
+            }
+        }
+
+        loadGallery();
+    </script>
+</body>
+</html>

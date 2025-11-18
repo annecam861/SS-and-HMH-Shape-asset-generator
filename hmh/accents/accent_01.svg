@@ -1,0 +1,4 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Curved underline -->
+  <path d="M100,280 Q256,320 412,280" fill="none" stroke="#FF647D" stroke-width="12" stroke-linecap="round"/>
+</svg>

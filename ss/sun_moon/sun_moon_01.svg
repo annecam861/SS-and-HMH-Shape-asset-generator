@@ -1,0 +1,12 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Full sun with rays -->
+  <circle cx="256" cy="256" r="80" fill="#A85031" stroke="#2B2F30" stroke-width="5"/>
+  <line x1="256" y1="100" x2="256" y2="140" stroke="#A85031" stroke-width="8" stroke-linecap="round"/>
+  <line x1="256" y1="372" x2="256" y2="412" stroke="#A85031" stroke-width="8" stroke-linecap="round"/>
+  <line x1="100" y1="256" x2="140" y2="256" stroke="#A85031" stroke-width="8" stroke-linecap="round"/>
+  <line x1="372" y1="256" x2="412" y2="256" stroke="#A85031" stroke-width="8" stroke-linecap="round"/>
+  <line x1="156" y1="156" x2="184" y2="184" stroke="#A85031" stroke-width="8" stroke-linecap="round"/>
+  <line x1="328" y1="328" x2="356" y2="356" stroke="#A85031" stroke-width="8" stroke-linecap="round"/>
+  <line x1="356" y1="156" x2="328" y2="184" stroke="#A85031" stroke-width="8" stroke-linecap="round"/>
+  <line x1="184" y1="328" x2="156" y2="356" stroke="#A85031" stroke-width="8" stroke-linecap="round"/>
+</svg>

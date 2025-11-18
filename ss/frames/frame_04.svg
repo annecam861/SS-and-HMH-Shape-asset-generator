@@ -1,0 +1,13 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Square frame with corners -->
+  <rect x="100" y="100" width="312" height="312" fill="none" stroke="#45574A" stroke-width="10"/>
+  <!-- Corner details -->
+  <line x1="100" y1="100" x2="140" y2="100" stroke="#A85031" stroke-width="8"/>
+  <line x1="100" y1="100" x2="100" y2="140" stroke="#A85031" stroke-width="8"/>
+  <line x1="412" y1="100" x2="372" y2="100" stroke="#A85031" stroke-width="8"/>
+  <line x1="412" y1="100" x2="412" y2="140" stroke="#A85031" stroke-width="8"/>
+  <line x1="100" y1="412" x2="140" y2="412" stroke="#A85031" stroke-width="8"/>
+  <line x1="100" y1="412" x2="100" y2="372" stroke="#A85031" stroke-width="8"/>
+  <line x1="412" y1="412" x2="372" y2="412" stroke="#A85031" stroke-width="8"/>
+  <line x1="412" y1="412" x2="412" y2="372" stroke="#A85031" stroke-width="8"/>
+</svg>

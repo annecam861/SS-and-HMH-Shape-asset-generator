@@ -1,0 +1,7 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dots accent -->
+  <circle cx="150" cy="256" r="18" fill="#46CAF4" stroke="#0B2E3A" stroke-width="3"/>
+  <circle cx="230" cy="256" r="18" fill="#46CAF4" stroke="#0B2E3A" stroke-width="3"/>
+  <circle cx="310" cy="256" r="18" fill="#46CAF4" stroke="#0B2E3A" stroke-width="3"/>
+  <circle cx="390" cy="256" r="18" fill="#46CAF4" stroke="#0B2E3A" stroke-width="3"/>
+</svg>

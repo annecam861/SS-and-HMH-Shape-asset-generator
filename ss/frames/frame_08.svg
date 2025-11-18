@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Diamond frame -->
+  <polygon points="256,70 442,256 256,442 70,256" fill="none" stroke="#244046" stroke-width="12"/>
+  <polygon points="256,100 412,256 256,412 100,256" fill="none" stroke="#8B957B" stroke-width="6"/>
+</svg>

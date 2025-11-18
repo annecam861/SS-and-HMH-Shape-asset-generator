@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Wide shield -->
+  <path d="M 100,130 L 412,130 L 420,280 Q 420,370 256,440 Q 92,370 92,280 Z" fill="#E7CBA7" stroke="#2B2F30" stroke-width="6"/>
+  <path d="M 130,160 L 382,160 L 390,270 Q 390,350 256,410 Q 122,350 122,270 Z" fill="none" stroke="#45574A" stroke-width="4"/>
+</svg>

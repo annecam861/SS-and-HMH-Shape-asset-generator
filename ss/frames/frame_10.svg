@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Octagon frame -->
+  <polygon points="256,80 360,130 420,234 420,278 360,382 256,432 152,382 92,278 92,234 152,130" fill="none" stroke="#805C35" stroke-width="12"/>
+  <polygon points="256,110 340,150 390,240 390,272 340,362 256,402 172,362 122,272 122,240 172,150" fill="none" stroke="#E4D4C1" stroke-width="6"/>
+</svg>

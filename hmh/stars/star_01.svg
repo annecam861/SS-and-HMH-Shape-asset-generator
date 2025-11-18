@@ -1,0 +1,4 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Classic 5-point star -->
+  <polygon points="256,80 285,200 410,200 310,270 340,390 256,320 172,390 202,270 102,200 227,200" fill="#DFFA48" stroke="#0B2E3A" stroke-width="5"/>
+</svg>

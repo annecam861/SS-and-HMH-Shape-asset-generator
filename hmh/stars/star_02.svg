@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- 5-point star with outline -->
+  <polygon points="256,70 290,195 420,195 315,275 350,400 256,320 162,400 197,275 92,195 222,195" fill="#FF647D" stroke="#0B2E3A" stroke-width="5"/>
+  <circle cx="256" cy="230" r="25" fill="#48F2A7" stroke="#0B2E3A" stroke-width="3"/>
+</svg>

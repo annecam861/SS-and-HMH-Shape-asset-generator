@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Double swoosh -->
+  <path d="M80,200 Q180,180 280,200 Q380,220 480,200" fill="none" stroke="#00AAEE" stroke-width="10" stroke-linecap="round"/>
+  <path d="M80,260 Q180,240 280,260 Q380,280 480,260" fill="none" stroke="#00AAEE" stroke-width="10" stroke-linecap="round"/>
+</svg>

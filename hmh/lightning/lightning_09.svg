@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Small lightning cluster -->
+  <polygon points="200,120 160,200 180,200 150,280 240,190 210,190 230,120" fill="#C544C7" stroke="#0B2E3A" stroke-width="4" stroke-linejoin="round"/>
+  <polygon points="320,180 280,260 300,260 270,340 360,250 330,250 350,180" fill="#DFFA48" stroke="#0B2E3A" stroke-width="4" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rectangle bubble left tail -->
+  <rect x="120" y="120" width="320" height="200" rx="40" ry="40" fill="#48F2A7" stroke="#0B2E3A" stroke-width="5"/>
+  <polygon points="140,320 80,380 180,330" fill="#48F2A7" stroke="#0B2E3A" stroke-width="5" stroke-linejoin="round"/>
+</svg>
