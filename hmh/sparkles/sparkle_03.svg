@@ -1,0 +1,8 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <!-- Three small sparkles cluster -->
+    <polygon points="180,180 185,250 255,255 185,260 180,330 175,260 105,255 175,250" fill="#FF2EC4" stroke="#0B2E3A" stroke-width="3"/>
+    <polygon points="340,160 345,220 405,225 345,230 340,290 335,230 275,225 335,220" fill="#46CAF4" stroke="#0B2E3A" stroke-width="3"/>
+    <polygon points="300,320 305,370 355,375 305,380 300,430 295,380 245,375 295,370" fill="#A67DFF" stroke="#0B2E3A" stroke-width="3"/>
+  </g>
+</svg>

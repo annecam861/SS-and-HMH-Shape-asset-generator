@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Filled 8-point star with center -->
+  <polygon points="256,70 270,240 440,254 270,268 256,438 242,268 72,254 242,240" fill="#FF2EC4" stroke="#0B2E3A" stroke-width="5"/>
+  <circle cx="256" cy="254" r="40" fill="#46CAF4" stroke="#0B2E3A" stroke-width="4"/>
+</svg>

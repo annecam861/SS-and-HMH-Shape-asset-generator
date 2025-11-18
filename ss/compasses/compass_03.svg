@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- 8-point compass star -->
+  <polygon points="256,80 270,236 426,256 270,276 256,432 242,276 86,256 242,236" fill="#7E8B6E" stroke="#2B2F30" stroke-width="5"/>
+  <polygon points="340,126 286,256 416,310 286,256 340,386 256,286 126,340 256,286 172,126 256,226 386,172 256,226" fill="#C6C2B4" stroke="#2B2F30" stroke-width="4"/>
+</svg>

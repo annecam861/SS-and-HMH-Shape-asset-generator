@@ -1,0 +1,7 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <!-- Dual sparkle -->
+    <polygon points="180,256 190,246 256,180 266,190 276,256 266,322 256,332 246,322 236,256 246,190" fill="#FF2EC4" stroke="#0B2E3A" stroke-width="4"/>
+    <polygon points="256,180 322,190 332,256 322,322 256,332 190,322 180,256 190,190" fill="#48F2A7" stroke="#0B2E3A" stroke-width="4"/>
+  </g>
+</svg>

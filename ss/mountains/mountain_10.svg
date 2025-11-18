@@ -1,0 +1,7 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Four peaks -->
+  <polygon points="0,400 60,280 120,400" fill="#244046" stroke="#2B2F30" stroke-width="4"/>
+  <polygon points="100,400 180,200 260,400" fill="#45574A" stroke="#2B2F30" stroke-width="4"/>
+  <polygon points="240,400 320,180 400,400" fill="#5F6C6D" stroke="#2B2F30" stroke-width="4"/>
+  <polygon points="380,400 450,260 512,400" fill="#768367" stroke="#2B2F30" stroke-width="4"/>
+</svg>

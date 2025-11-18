@@ -1,0 +1,7 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <!-- 8-ray sparkle -->
+    <polygon points="256,80 266,246 432,256 266,266 256,432 246,266 80,256 246,246" fill="#00AAEE" stroke="#0B2E3A" stroke-width="4"/>
+    <polygon points="320,140 280,256 396,296 280,256 320,372 256,280 116,320 256,280 140,140 256,232 372,116 256,232" fill="#DFFA48" stroke="#0B2E3A" stroke-width="3"/>
+  </g>
+</svg>

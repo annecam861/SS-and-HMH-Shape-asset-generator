@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Star badge -->
+  <polygon points="256,90 285,200 400,210 318,280 340,395 256,335 172,395 194,280 112,210 227,200" fill="#E7CBA7" stroke="#2B2F30" stroke-width="5"/>
+  <circle cx="256" cy="256" r="60" fill="none" stroke="#45574A" stroke-width="4"/>
+</svg>

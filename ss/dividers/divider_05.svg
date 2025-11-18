@@ -1,0 +1,6 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Line with center star -->
+  <line x1="80" y1="256" x2="200" y2="256" stroke="#45574A" stroke-width="6" stroke-linecap="round"/>
+  <line x1="312" y1="256" x2="432" y2="256" stroke="#45574A" stroke-width="6" stroke-linecap="round"/>
+  <polygon points="256,226 265,250 290,250 270,265 280,290 256,275 232,290 242,265 222,250 247,250" fill="#BD8467" stroke="#2B2F30" stroke-width="3"/>
+</svg>

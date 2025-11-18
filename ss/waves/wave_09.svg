@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Double wave outlines -->
+  <path d="M 0,280 Q 128,240 256,260 Q 384,280 512,240" fill="none" stroke="#805C35" stroke-width="6" stroke-linecap="round"/>
+  <path d="M 0,320 Q 128,280 256,300 Q 384,320 512,280" fill="none" stroke="#805C35" stroke-width="6" stroke-linecap="round"/>
+</svg>

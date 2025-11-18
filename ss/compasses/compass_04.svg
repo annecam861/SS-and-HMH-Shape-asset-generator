@@ -1,0 +1,6 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Diamond compass -->
+  <polygon points="256,120 320,256 256,392 192,256" fill="#BD8467" stroke="#2B2F30" stroke-width="6"/>
+  <circle cx="256" cy="256" r="160" fill="none" stroke="#2B2F30" stroke-width="5"/>
+  <circle cx="256" cy="256" r="50" fill="#E9DAC5" stroke="#2B2F30" stroke-width="4"/>
+</svg>

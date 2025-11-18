@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Double lightning -->
+  <polygon points="240,70 170,230 210,230 160,420 300,220 260,220 310,70" fill="#A67DFF" stroke="#0B2E3A" stroke-width="4" stroke-linejoin="round"/>
+  <polygon points="320,100 270,230 300,230 260,390 370,230 330,230 370,100" fill="#FF647D" stroke="#0B2E3A" stroke-width="4" stroke-linejoin="round"/>
+</svg>

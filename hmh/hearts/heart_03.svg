@@ -1,0 +1,4 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Wide heart -->
+  <path d="M256,400 L90,240 Q50,200 50,150 Q50,100 100,80 Q150,60 190,100 L256,166 L322,100 Q362,60 412,80 Q462,100 462,150 Q462,200 422,240 Z" fill="#C544C7" stroke="#0B2E3A" stroke-width="5"/>
+</svg>

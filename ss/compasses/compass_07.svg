@@ -1,0 +1,7 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Minimal directional -->
+  <polygon points="256,120 276,236 256,256 236,236" fill="#244046" stroke="#2B2F30" stroke-width="5"/>
+  <polygon points="392,256 276,276 256,256 276,236" fill="#768367" stroke="#2B2F30" stroke-width="5"/>
+  <polygon points="256,392 236,276 256,256 276,276" fill="#768367" stroke="#2B2F30" stroke-width="5"/>
+  <polygon points="120,256 236,236 256,256 236,276" fill="#244046" stroke="#2B2F30" stroke-width="5"/>
+</svg>

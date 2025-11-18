@@ -1,0 +1,6 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Three layer mountains -->
+  <polygon points="0,400 120,240 280,400" fill="#244046" stroke="#2B2F30" stroke-width="4"/>
+  <polygon points="200,400 320,180 512,400" fill="#45574A" stroke="#2B2F30" stroke-width="4"/>
+  <polygon points="0,400 180,280 400,400" fill="#8B957B" stroke="#2B2F30" stroke-width="4"/>
+</svg>

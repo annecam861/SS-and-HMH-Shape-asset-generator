@@ -1,0 +1,6 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Line with squares at ends -->
+  <line x1="130" y1="256" x2="382" y2="256" stroke="#805C35" stroke-width="6"/>
+  <rect x="80" y="236" width="40" height="40" fill="#E4D4C1" stroke="#2B2F30" stroke-width="4"/>
+  <rect x="392" y="236" width="40" height="40" fill="#E4D4C1" stroke="#2B2F30" stroke-width="4"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <!-- Plus sparkle with dots -->
+    <rect x="226" y="100" width="60" height="312" fill="#00AAEE" stroke="#0B2E3A" stroke-width="4"/>
+    <rect x="100" y="226" width="312" height="60" fill="#A67DFF" stroke="#0B2E3A" stroke-width="4"/>
+    <circle cx="160" cy="160" r="18" fill="#FF647D" stroke="#0B2E3A" stroke-width="3"/>
+    <circle cx="352" cy="160" r="18" fill="#FF647D" stroke="#0B2E3A" stroke-width="3"/>
+    <circle cx="160" cy="352" r="18" fill="#FF647D" stroke="#0B2E3A" stroke-width="3"/>
+    <circle cx="352" cy="352" r="18" fill="#FF647D" stroke="#0B2E3A" stroke-width="3"/>
+  </g>
+</svg>

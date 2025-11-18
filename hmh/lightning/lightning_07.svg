@@ -1,0 +1,4 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Thick lightning -->
+  <polygon points="310,60 210,250 260,250 200,450 380,230 320,230 370,60" fill="#982176" stroke="#0B2E3A" stroke-width="6" stroke-linejoin="round"/>
+</svg>

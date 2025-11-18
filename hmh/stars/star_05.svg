@@ -1,0 +1,6 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- 3 small stars cluster -->
+  <polygon points="160,180 175,230 225,230 185,260 200,310 160,280 120,310 135,260 95,230 145,230" fill="#46CAF4" stroke="#0B2E3A" stroke-width="4"/>
+  <polygon points="340,150 352,190 392,190 360,212 372,252 340,230 308,252 320,212 288,190 328,190" fill="#FF2EC4" stroke="#0B2E3A" stroke-width="4"/>
+  <polygon points="260,330 275,380 325,380 285,410 300,460 260,430 220,460 235,410 195,380 245,380" fill="#8BC0FF" stroke="#0B2E3A" stroke-width="4"/>
+</svg>

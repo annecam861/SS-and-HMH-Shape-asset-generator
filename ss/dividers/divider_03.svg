@@ -1,0 +1,6 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Line with triangular ends -->
+  <line x1="130" y1="256" x2="382" y2="256" stroke="#7E8B6E" stroke-width="6"/>
+  <polygon points="80,256 120,240 120,272" fill="#A85031" stroke="#2B2F30" stroke-width="4"/>
+  <polygon points="432,256 392,240 392,272" fill="#A85031" stroke="#2B2F30" stroke-width="4"/>
+</svg>

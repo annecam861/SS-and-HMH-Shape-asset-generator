@@ -1,0 +1,4 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Asymmetric blob -->
+  <path d="M130,220 Q110,160 160,120 Q220,80 280,100 Q360,120 390,180 Q420,240 400,300 Q380,360 310,390 Q240,420 180,390 Q120,360 110,300 Q100,260 130,220 Z" fill="#46CAF4" stroke="#0B2E3A" stroke-width="5"/>
+</svg>

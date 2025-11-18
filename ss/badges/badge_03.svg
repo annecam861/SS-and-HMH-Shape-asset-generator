@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Diamond badge -->
+  <polygon points="256,80 432,256 256,432 80,256" fill="#A47775" stroke="#2B2F30" stroke-width="6"/>
+  <polygon points="256,120 392,256 256,392 120,256" fill="none" stroke="#E9DAC5" stroke-width="4"/>
+</svg>

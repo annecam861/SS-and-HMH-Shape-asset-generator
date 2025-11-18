@@ -1,0 +1,8 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sun with triangular rays -->
+  <circle cx="256" cy="256" r="70" fill="#A85031" stroke="#2B2F30" stroke-width="5"/>
+  <polygon points="256,120 246,170 266,170" fill="#A85031" stroke="#2B2F30" stroke-width="4"/>
+  <polygon points="256,392 246,342 266,342" fill="#A85031" stroke="#2B2F30" stroke-width="4"/>
+  <polygon points="392,256 342,246 342,266" fill="#A85031" stroke="#2B2F30" stroke-width="4"/>
+  <polygon points="120,256 170,246 170,266" fill="#A85031" stroke="#2B2F30" stroke-width="4"/>
+</svg>

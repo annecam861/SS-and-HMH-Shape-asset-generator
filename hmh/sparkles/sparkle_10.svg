@@ -1,0 +1,11 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <!-- Scattered mini sparkles -->
+    <polygon points="140,140 143,153 156,156 143,159 140,172 137,159 124,156 137,153" fill="#C544C7" stroke="#0B2E3A" stroke-width="2"/>
+    <polygon points="380,130 384,148 402,152 384,156 380,174 376,156 358,152 376,148" fill="#46CAF4" stroke="#0B2E3A" stroke-width="2"/>
+    <polygon points="256,200 262,242 304,248 262,254 256,296 250,254 208,248 250,242" fill="#FF647D" stroke="#0B2E3A" stroke-width="3"/>
+    <polygon points="150,320 154,338 172,342 154,346 150,364 146,346 128,342 146,338" fill="#DFFA48" stroke="#0B2E3A" stroke-width="2"/>
+    <polygon points="360,310 365,335 390,340 365,345 360,370 355,345 330,340 355,335" fill="#8BC0FF" stroke="#0B2E3A" stroke-width="3"/>
+    <polygon points="240,380 244,398 262,402 244,406 240,424 236,406 218,402 236,398" fill="#A67DFF" stroke="#0B2E3A" stroke-width="2"/>
+  </g>
+</svg>

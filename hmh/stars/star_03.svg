@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- 8-point star -->
+  <polygon points="256,60 276,236 452,256 276,276 256,452 236,276 60,256 236,236" fill="#00AAEE" stroke="#0B2E3A" stroke-width="5"/>
+  <polygon points="340,116 286,256 426,310 286,256 340,396 256,286 116,340 256,286 172,116 256,226 396,172 256,226" fill="#A67DFF" stroke="#0B2E3A" stroke-width="4"/>
+</svg>

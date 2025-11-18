@@ -1,0 +1,6 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Line with mountain silhouette center -->
+  <line x1="80" y1="280" x2="180" y2="280" stroke="#45574A" stroke-width="6" stroke-linecap="round"/>
+  <line x1="332" y1="280" x2="432" y2="280" stroke="#45574A" stroke-width="6" stroke-linecap="round"/>
+  <polygon points="200,280 230,230 260,250 280,220 310,280" fill="#768367" stroke="#2B2F30" stroke-width="4"/>
+</svg>

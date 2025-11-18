@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bracket accent -->
+  <path d="M120,180 L100,180 L100,332 L120,332" fill="none" stroke="#C544C7" stroke-width="10" stroke-linecap="round"/>
+  <path d="M392,180 L412,180 L412,332 L392,332" fill="none" stroke="#C544C7" stroke-width="10" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Stacked thought bubbles -->
+  <circle cx="300" cy="200" r="40" fill="#46CAF4" stroke="#0B2E3A" stroke-width="4"/>
+  <circle cx="240" cy="280" r="50" fill="#46CAF4" stroke="#0B2E3A" stroke-width="4"/>
+  <circle cx="200" cy="370" r="30" fill="#46CAF4" stroke="#0B2E3A" stroke-width="4"/>
+</svg>

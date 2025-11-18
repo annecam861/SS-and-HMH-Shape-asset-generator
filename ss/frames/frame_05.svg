@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Hexagon frame -->
+  <polygon points="256,80 400,170 400,342 256,432 112,342 112,170" fill="none" stroke="#7E8B6E" stroke-width="12"/>
+  <polygon points="256,100 380,180 380,332 256,412 132,332 132,180" fill="none" stroke="#E9DAC5" stroke-width="6"/>
+</svg>

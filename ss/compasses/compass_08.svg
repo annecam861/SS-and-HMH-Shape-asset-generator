@@ -1,0 +1,8 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circle with arrows -->
+  <circle cx="256" cy="256" r="140" fill="none" stroke="#805C35" stroke-width="8"/>
+  <polygon points="256,120 240,160 272,160" fill="#A85031" stroke="#2B2F30" stroke-width="4"/>
+  <polygon points="396,256 356,240 356,272" fill="#E4D4C1" stroke="#2B2F30" stroke-width="4"/>
+  <polygon points="256,392 272,352 240,352" fill="#E4D4C1" stroke="#2B2F30" stroke-width="4"/>
+  <polygon points="116,256 156,272 156,240" fill="#A85031" stroke="#2B2F30" stroke-width="4"/>
+</svg>

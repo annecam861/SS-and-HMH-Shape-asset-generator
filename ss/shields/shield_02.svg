@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Pointed shield -->
+  <path d="M 256,90 L 380,130 L 380,300 L 256,420 L 132,300 L 132,130 Z" fill="#45574A" stroke="#2B2F30" stroke-width="6"/>
+  <path d="M 256,120 L 350,150 L 350,290 L 256,380 L 162,290 L 162,150 Z" fill="none" stroke="#E9DAC5" stroke-width="4"/>
+</svg>

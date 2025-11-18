@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Geometric star compass -->
+  <polygon points="256,100 285,220 405,220 310,290 340,410 256,340 172,410 202,290 107,220 227,220" fill="#5F6C6D" stroke="#2B2F30" stroke-width="5"/>
+  <circle cx="256" cy="256" r="130" fill="none" stroke="#E9DAC5" stroke-width="4"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Simple cross compass -->
+  <line x1="256" y1="120" x2="256" y2="392" stroke="#45574A" stroke-width="10" stroke-linecap="round"/>
+  <line x1="120" y1="256" x2="392" y2="256" stroke="#45574A" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="256" cy="256" r="40" fill="none" stroke="#2B2F30" stroke-width="5"/>
+  <text x="256" y="110" font-family="Arial" font-size="24" fill="#2B2F30" text-anchor="middle" font-weight="bold">N</text>
+</svg>

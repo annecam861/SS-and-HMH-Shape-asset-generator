@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Oval badge -->
+  <ellipse cx="256" cy="256" rx="160" ry="180" fill="#C6C2B4" stroke="#2B2F30" stroke-width="6"/>
+  <ellipse cx="256" cy="256" rx="130" ry="150" fill="none" stroke="#45574A" stroke-width="4"/>
+</svg>

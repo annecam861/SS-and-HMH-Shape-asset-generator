@@ -1,0 +1,7 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <!-- Diamond sparkle -->
+    <polygon points="256,100 350,256 256,412 162,256" fill="#A7D8C4" stroke="#0B2E3A" stroke-width="5"/>
+    <polygon points="256,140 320,256 256,372 192,256" fill="#FAD9B5" stroke="#0B2E3A" stroke-width="3"/>
+  </g>
+</svg>

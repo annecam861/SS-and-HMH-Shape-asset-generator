@@ -1,0 +1,6 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Layered compass -->
+  <circle cx="256" cy="256" r="160" fill="none" stroke="#45574A" stroke-width="6"/>
+  <polygon points="256,110 268,240 380,252 268,264 256,394 244,264 132,252 244,240" fill="#8B957B" stroke="#2B2F30" stroke-width="5"/>
+  <circle cx="256" cy="256" r="40" fill="#E9DAC5" stroke="#2B2F30" stroke-width="4"/>
+</svg>

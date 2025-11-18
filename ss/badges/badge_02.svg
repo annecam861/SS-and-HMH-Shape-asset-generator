@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Hexagon badge -->
+  <polygon points="256,100 380,178 380,334 256,412 132,334 132,178" fill="#8B957B" stroke="#2B2F30" stroke-width="6"/>
+  <polygon points="256,130 360,195 360,317 256,382 152,317 152,195" fill="none" stroke="#E9DAC5" stroke-width="4"/>
+</svg>

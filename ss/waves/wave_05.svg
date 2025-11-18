@@ -1,0 +1,5 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gentle double wave -->
+  <path d="M 0,300 Q 256,260 512,300 L 512,400 L 0,400 Z" fill="#A47775" stroke="#2B2F30" stroke-width="4"/>
+  <path d="M 0,270 Q 256,230 512,270 L 512,400 L 0,400 Z" fill="#C6C2B4" stroke="#2B2F30" stroke-width="4"/>
+</svg>
