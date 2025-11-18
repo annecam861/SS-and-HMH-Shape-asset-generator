@@ -1,162 +1,962 @@
 [
-  {"brand": "hmh", "category": "sparkles", "name": "sparkle_01", "file": "hmh/sparkles/sparkle_01.svg"},
-  {"brand": "hmh", "category": "sparkles", "name": "sparkle_02", "file": "hmh/sparkles/sparkle_02.svg"},
-  {"brand": "hmh", "category": "sparkles", "name": "sparkle_03", "file": "hmh/sparkles/sparkle_03.svg"},
-  {"brand": "hmh", "category": "sparkles", "name": "sparkle_04", "file": "hmh/sparkles/sparkle_04.svg"},
-  {"brand": "hmh", "category": "sparkles", "name": "sparkle_05", "file": "hmh/sparkles/sparkle_05.svg"},
-  {"brand": "hmh", "category": "sparkles", "name": "sparkle_06", "file": "hmh/sparkles/sparkle_06.svg"},
-  {"brand": "hmh", "category": "sparkles", "name": "sparkle_07", "file": "hmh/sparkles/sparkle_07.svg"},
-  {"brand": "hmh", "category": "sparkles", "name": "sparkle_08", "file": "hmh/sparkles/sparkle_08.svg"},
-  {"brand": "hmh", "category": "sparkles", "name": "sparkle_09", "file": "hmh/sparkles/sparkle_09.svg"},
-  {"brand": "hmh", "category": "sparkles", "name": "sparkle_10", "file": "hmh/sparkles/sparkle_10.svg"},
-  {"brand": "hmh", "category": "hearts", "name": "heart_01", "file": "hmh/hearts/heart_01.svg"},
-  {"brand": "hmh", "category": "hearts", "name": "heart_02", "file": "hmh/hearts/heart_02.svg"},
-  {"brand": "hmh", "category": "hearts", "name": "heart_03", "file": "hmh/hearts/heart_03.svg"},
-  {"brand": "hmh", "category": "hearts", "name": "heart_04", "file": "hmh/hearts/heart_04.svg"},
-  {"brand": "hmh", "category": "hearts", "name": "heart_05", "file": "hmh/hearts/heart_05.svg"},
-  {"brand": "hmh", "category": "hearts", "name": "heart_06", "file": "hmh/hearts/heart_06.svg"},
-  {"brand": "hmh", "category": "hearts", "name": "heart_07", "file": "hmh/hearts/heart_07.svg"},
-  {"brand": "hmh", "category": "hearts", "name": "heart_08", "file": "hmh/hearts/heart_08.svg"},
-  {"brand": "hmh", "category": "hearts", "name": "heart_09", "file": "hmh/hearts/heart_09.svg"},
-  {"brand": "hmh", "category": "hearts", "name": "heart_10", "file": "hmh/hearts/heart_10.svg"},
-  {"brand": "hmh", "category": "stars", "name": "star_01", "file": "hmh/stars/star_01.svg"},
-  {"brand": "hmh", "category": "stars", "name": "star_02", "file": "hmh/stars/star_02.svg"},
-  {"brand": "hmh", "category": "stars", "name": "star_03", "file": "hmh/stars/star_03.svg"},
-  {"brand": "hmh", "category": "stars", "name": "star_04", "file": "hmh/stars/star_04.svg"},
-  {"brand": "hmh", "category": "stars", "name": "star_05", "file": "hmh/stars/star_05.svg"},
-  {"brand": "hmh", "category": "stars", "name": "star_06", "file": "hmh/stars/star_06.svg"},
-  {"brand": "hmh", "category": "stars", "name": "star_07", "file": "hmh/stars/star_07.svg"},
-  {"brand": "hmh", "category": "stars", "name": "star_08", "file": "hmh/stars/star_08.svg"},
-  {"brand": "hmh", "category": "stars", "name": "star_09", "file": "hmh/stars/star_09.svg"},
-  {"brand": "hmh", "category": "stars", "name": "star_10", "file": "hmh/stars/star_10.svg"},
-  {"brand": "hmh", "category": "blobs", "name": "blob_01", "file": "hmh/blobs/blob_01.svg"},
-  {"brand": "hmh", "category": "blobs", "name": "blob_02", "file": "hmh/blobs/blob_02.svg"},
-  {"brand": "hmh", "category": "blobs", "name": "blob_03", "file": "hmh/blobs/blob_03.svg"},
-  {"brand": "hmh", "category": "blobs", "name": "blob_04", "file": "hmh/blobs/blob_04.svg"},
-  {"brand": "hmh", "category": "blobs", "name": "blob_05", "file": "hmh/blobs/blob_05.svg"},
-  {"brand": "hmh", "category": "blobs", "name": "blob_06", "file": "hmh/blobs/blob_06.svg"},
-  {"brand": "hmh", "category": "blobs", "name": "blob_07", "file": "hmh/blobs/blob_07.svg"},
-  {"brand": "hmh", "category": "blobs", "name": "blob_08", "file": "hmh/blobs/blob_08.svg"},
-  {"brand": "hmh", "category": "blobs", "name": "blob_09", "file": "hmh/blobs/blob_09.svg"},
-  {"brand": "hmh", "category": "blobs", "name": "blob_10", "file": "hmh/blobs/blob_10.svg"},
-  {"brand": "hmh", "category": "speech_bubbles", "name": "speech_bubble_01", "file": "hmh/speech_bubbles/speech_bubble_01.svg"},
-  {"brand": "hmh", "category": "speech_bubbles", "name": "speech_bubble_02", "file": "hmh/speech_bubbles/speech_bubble_02.svg"},
-  {"brand": "hmh", "category": "speech_bubbles", "name": "speech_bubble_03", "file": "hmh/speech_bubbles/speech_bubble_03.svg"},
-  {"brand": "hmh", "category": "speech_bubbles", "name": "speech_bubble_04", "file": "hmh/speech_bubbles/speech_bubble_04.svg"},
-  {"brand": "hmh", "category": "speech_bubbles", "name": "speech_bubble_05", "file": "hmh/speech_bubbles/speech_bubble_05.svg"},
-  {"brand": "hmh", "category": "speech_bubbles", "name": "speech_bubble_06", "file": "hmh/speech_bubbles/speech_bubble_06.svg"},
-  {"brand": "hmh", "category": "speech_bubbles", "name": "speech_bubble_07", "file": "hmh/speech_bubbles/speech_bubble_07.svg"},
-  {"brand": "hmh", "category": "speech_bubbles", "name": "speech_bubble_08", "file": "hmh/speech_bubbles/speech_bubble_08.svg"},
-  {"brand": "hmh", "category": "speech_bubbles", "name": "speech_bubble_09", "file": "hmh/speech_bubbles/speech_bubble_09.svg"},
-  {"brand": "hmh", "category": "speech_bubbles", "name": "speech_bubble_10", "file": "hmh/speech_bubbles/speech_bubble_10.svg"},
-  {"brand": "hmh", "category": "sticker_outlines", "name": "sticker_outline_01", "file": "hmh/sticker_outlines/sticker_outline_01.svg"},
-  {"brand": "hmh", "category": "sticker_outlines", "name": "sticker_outline_02", "file": "hmh/sticker_outlines/sticker_outline_02.svg"},
-  {"brand": "hmh", "category": "sticker_outlines", "name": "sticker_outline_03", "file": "hmh/sticker_outlines/sticker_outline_03.svg"},
-  {"brand": "hmh", "category": "sticker_outlines", "name": "sticker_outline_04", "file": "hmh/sticker_outlines/sticker_outline_04.svg"},
-  {"brand": "hmh", "category": "sticker_outlines", "name": "sticker_outline_05", "file": "hmh/sticker_outlines/sticker_outline_05.svg"},
-  {"brand": "hmh", "category": "sticker_outlines", "name": "sticker_outline_06", "file": "hmh/sticker_outlines/sticker_outline_06.svg"},
-  {"brand": "hmh", "category": "sticker_outlines", "name": "sticker_outline_07", "file": "hmh/sticker_outlines/sticker_outline_07.svg"},
-  {"brand": "hmh", "category": "sticker_outlines", "name": "sticker_outline_08", "file": "hmh/sticker_outlines/sticker_outline_08.svg"},
-  {"brand": "hmh", "category": "sticker_outlines", "name": "sticker_outline_09", "file": "hmh/sticker_outlines/sticker_outline_09.svg"},
-  {"brand": "hmh", "category": "sticker_outlines", "name": "sticker_outline_10", "file": "hmh/sticker_outlines/sticker_outline_10.svg"},
-  {"brand": "hmh", "category": "lightning", "name": "lightning_01", "file": "hmh/lightning/lightning_01.svg"},
-  {"brand": "hmh", "category": "lightning", "name": "lightning_02", "file": "hmh/lightning/lightning_02.svg"},
-  {"brand": "hmh", "category": "lightning", "name": "lightning_03", "file": "hmh/lightning/lightning_03.svg"},
-  {"brand": "hmh", "category": "lightning", "name": "lightning_04", "file": "hmh/lightning/lightning_04.svg"},
-  {"brand": "hmh", "category": "lightning", "name": "lightning_05", "file": "hmh/lightning/lightning_05.svg"},
-  {"brand": "hmh", "category": "lightning", "name": "lightning_06", "file": "hmh/lightning/lightning_06.svg"},
-  {"brand": "hmh", "category": "lightning", "name": "lightning_07", "file": "hmh/lightning/lightning_07.svg"},
-  {"brand": "hmh", "category": "lightning", "name": "lightning_08", "file": "hmh/lightning/lightning_08.svg"},
-  {"brand": "hmh", "category": "lightning", "name": "lightning_09", "file": "hmh/lightning/lightning_09.svg"},
-  {"brand": "hmh", "category": "lightning", "name": "lightning_10", "file": "hmh/lightning/lightning_10.svg"},
-  {"brand": "hmh", "category": "accents", "name": "accent_01", "file": "hmh/accents/accent_01.svg"},
-  {"brand": "hmh", "category": "accents", "name": "accent_02", "file": "hmh/accents/accent_02.svg"},
-  {"brand": "hmh", "category": "accents", "name": "accent_03", "file": "hmh/accents/accent_03.svg"},
-  {"brand": "hmh", "category": "accents", "name": "accent_04", "file": "hmh/accents/accent_04.svg"},
-  {"brand": "hmh", "category": "accents", "name": "accent_05", "file": "hmh/accents/accent_05.svg"},
-  {"brand": "hmh", "category": "accents", "name": "accent_06", "file": "hmh/accents/accent_06.svg"},
-  {"brand": "hmh", "category": "accents", "name": "accent_07", "file": "hmh/accents/accent_07.svg"},
-  {"brand": "hmh", "category": "accents", "name": "accent_08", "file": "hmh/accents/accent_08.svg"},
-  {"brand": "hmh", "category": "accents", "name": "accent_09", "file": "hmh/accents/accent_09.svg"},
-  {"brand": "hmh", "category": "accents", "name": "accent_10", "file": "hmh/accents/accent_10.svg"},
-  {"brand": "ss", "category": "mountains", "name": "mountain_01", "file": "ss/mountains/mountain_01.svg"},
-  {"brand": "ss", "category": "mountains", "name": "mountain_02", "file": "ss/mountains/mountain_02.svg"},
-  {"brand": "ss", "category": "mountains", "name": "mountain_03", "file": "ss/mountains/mountain_03.svg"},
-  {"brand": "ss", "category": "mountains", "name": "mountain_04", "file": "ss/mountains/mountain_04.svg"},
-  {"brand": "ss", "category": "mountains", "name": "mountain_05", "file": "ss/mountains/mountain_05.svg"},
-  {"brand": "ss", "category": "mountains", "name": "mountain_06", "file": "ss/mountains/mountain_06.svg"},
-  {"brand": "ss", "category": "mountains", "name": "mountain_07", "file": "ss/mountains/mountain_07.svg"},
-  {"brand": "ss", "category": "mountains", "name": "mountain_08", "file": "ss/mountains/mountain_08.svg"},
-  {"brand": "ss", "category": "mountains", "name": "mountain_09", "file": "ss/mountains/mountain_09.svg"},
-  {"brand": "ss", "category": "mountains", "name": "mountain_10", "file": "ss/mountains/mountain_10.svg"},
-  {"brand": "ss", "category": "sun_moon", "name": "sun_moon_01", "file": "ss/sun_moon/sun_moon_01.svg"},
-  {"brand": "ss", "category": "sun_moon", "name": "sun_moon_02", "file": "ss/sun_moon/sun_moon_02.svg"},
-  {"brand": "ss", "category": "sun_moon", "name": "sun_moon_03", "file": "ss/sun_moon/sun_moon_03.svg"},
-  {"brand": "ss", "category": "sun_moon", "name": "sun_moon_04", "file": "ss/sun_moon/sun_moon_04.svg"},
-  {"brand": "ss", "category": "sun_moon", "name": "sun_moon_05", "file": "ss/sun_moon/sun_moon_05.svg"},
-  {"brand": "ss", "category": "sun_moon", "name": "sun_moon_06", "file": "ss/sun_moon/sun_moon_06.svg"},
-  {"brand": "ss", "category": "sun_moon", "name": "sun_moon_07", "file": "ss/sun_moon/sun_moon_07.svg"},
-  {"brand": "ss", "category": "sun_moon", "name": "sun_moon_08", "file": "ss/sun_moon/sun_moon_08.svg"},
-  {"brand": "ss", "category": "sun_moon", "name": "sun_moon_09", "file": "ss/sun_moon/sun_moon_09.svg"},
-  {"brand": "ss", "category": "sun_moon", "name": "sun_moon_10", "file": "ss/sun_moon/sun_moon_10.svg"},
-  {"brand": "ss", "category": "badges", "name": "badge_01", "file": "ss/badges/badge_01.svg"},
-  {"brand": "ss", "category": "badges", "name": "badge_02", "file": "ss/badges/badge_02.svg"},
-  {"brand": "ss", "category": "badges", "name": "badge_03", "file": "ss/badges/badge_03.svg"},
-  {"brand": "ss", "category": "badges", "name": "badge_04", "file": "ss/badges/badge_04.svg"},
-  {"brand": "ss", "category": "badges", "name": "badge_05", "file": "ss/badges/badge_05.svg"},
-  {"brand": "ss", "category": "badges", "name": "badge_06", "file": "ss/badges/badge_06.svg"},
-  {"brand": "ss", "category": "badges", "name": "badge_07", "file": "ss/badges/badge_07.svg"},
-  {"brand": "ss", "category": "badges", "name": "badge_08", "file": "ss/badges/badge_08.svg"},
-  {"brand": "ss", "category": "badges", "name": "badge_09", "file": "ss/badges/badge_09.svg"},
-  {"brand": "ss", "category": "badges", "name": "badge_10", "file": "ss/badges/badge_10.svg"},
-  {"brand": "ss", "category": "shields", "name": "shield_01", "file": "ss/shields/shield_01.svg"},
-  {"brand": "ss", "category": "shields", "name": "shield_02", "file": "ss/shields/shield_02.svg"},
-  {"brand": "ss", "category": "shields", "name": "shield_03", "file": "ss/shields/shield_03.svg"},
-  {"brand": "ss", "category": "shields", "name": "shield_04", "file": "ss/shields/shield_04.svg"},
-  {"brand": "ss", "category": "shields", "name": "shield_05", "file": "ss/shields/shield_05.svg"},
-  {"brand": "ss", "category": "shields", "name": "shield_06", "file": "ss/shields/shield_06.svg"},
-  {"brand": "ss", "category": "shields", "name": "shield_07", "file": "ss/shields/shield_07.svg"},
-  {"brand": "ss", "category": "shields", "name": "shield_08", "file": "ss/shields/shield_08.svg"},
-  {"brand": "ss", "category": "shields", "name": "shield_09", "file": "ss/shields/shield_09.svg"},
-  {"brand": "ss", "category": "shields", "name": "shield_10", "file": "ss/shields/shield_10.svg"},
-  {"brand": "ss", "category": "frames", "name": "frame_01", "file": "ss/frames/frame_01.svg"},
-  {"brand": "ss", "category": "frames", "name": "frame_02", "file": "ss/frames/frame_02.svg"},
-  {"brand": "ss", "category": "frames", "name": "frame_03", "file": "ss/frames/frame_03.svg"},
-  {"brand": "ss", "category": "frames", "name": "frame_04", "file": "ss/frames/frame_04.svg"},
-  {"brand": "ss", "category": "frames", "name": "frame_05", "file": "ss/frames/frame_05.svg"},
-  {"brand": "ss", "category": "frames", "name": "frame_06", "file": "ss/frames/frame_06.svg"},
-  {"brand": "ss", "category": "frames", "name": "frame_07", "file": "ss/frames/frame_07.svg"},
-  {"brand": "ss", "category": "frames", "name": "frame_08", "file": "ss/frames/frame_08.svg"},
-  {"brand": "ss", "category": "frames", "name": "frame_09", "file": "ss/frames/frame_09.svg"},
-  {"brand": "ss", "category": "frames", "name": "frame_10", "file": "ss/frames/frame_10.svg"},
-  {"brand": "ss", "category": "dividers", "name": "divider_01", "file": "ss/dividers/divider_01.svg"},
-  {"brand": "ss", "category": "dividers", "name": "divider_02", "file": "ss/dividers/divider_02.svg"},
-  {"brand": "ss", "category": "dividers", "name": "divider_03", "file": "ss/dividers/divider_03.svg"},
-  {"brand": "ss", "category": "dividers", "name": "divider_04", "file": "ss/dividers/divider_04.svg"},
-  {"brand": "ss", "category": "dividers", "name": "divider_05", "file": "ss/dividers/divider_05.svg"},
-  {"brand": "ss", "category": "dividers", "name": "divider_06", "file": "ss/dividers/divider_06.svg"},
-  {"brand": "ss", "category": "dividers", "name": "divider_07", "file": "ss/dividers/divider_07.svg"},
-  {"brand": "ss", "category": "dividers", "name": "divider_08", "file": "ss/dividers/divider_08.svg"},
-  {"brand": "ss", "category": "dividers", "name": "divider_09", "file": "ss/dividers/divider_09.svg"},
-  {"brand": "ss", "category": "dividers", "name": "divider_10", "file": "ss/dividers/divider_10.svg"},
-  {"brand": "ss", "category": "waves", "name": "wave_01", "file": "ss/waves/wave_01.svg"},
-  {"brand": "ss", "category": "waves", "name": "wave_02", "file": "ss/waves/wave_02.svg"},
-  {"brand": "ss", "category": "waves", "name": "wave_03", "file": "ss/waves/wave_03.svg"},
-  {"brand": "ss", "category": "waves", "name": "wave_04", "file": "ss/waves/wave_04.svg"},
-  {"brand": "ss", "category": "waves", "name": "wave_05", "file": "ss/waves/wave_05.svg"},
-  {"brand": "ss", "category": "waves", "name": "wave_06", "file": "ss/waves/wave_06.svg"},
-  {"brand": "ss", "category": "waves", "name": "wave_07", "file": "ss/waves/wave_07.svg"},
-  {"brand": "ss", "category": "waves", "name": "wave_08", "file": "ss/waves/wave_08.svg"},
-  {"brand": "ss", "category": "waves", "name": "wave_09", "file": "ss/waves/wave_09.svg"},
-  {"brand": "ss", "category": "waves", "name": "wave_10", "file": "ss/waves/wave_10.svg"},
-  {"brand": "ss", "category": "compasses", "name": "compass_01", "file": "ss/compasses/compass_01.svg"},
-  {"brand": "ss", "category": "compasses", "name": "compass_02", "file": "ss/compasses/compass_02.svg"},
-  {"brand": "ss", "category": "compasses", "name": "compass_03", "file": "ss/compasses/compass_03.svg"},
-  {"brand": "ss", "category": "compasses", "name": "compass_04", "file": "ss/compasses/compass_04.svg"},
-  {"brand": "ss", "category": "compasses", "name": "compass_05", "file": "ss/compasses/compass_05.svg"},
-  {"brand": "ss", "category": "compasses", "name": "compass_06", "file": "ss/compasses/compass_06.svg"},
-  {"brand": "ss", "category": "compasses", "name": "compass_07", "file": "ss/compasses/compass_07.svg"},
-  {"brand": "ss", "category": "compasses", "name": "compass_08", "file": "ss/compasses/compass_08.svg"},
-  {"brand": "ss", "category": "compasses", "name": "compass_09", "file": "ss/compasses/compass_09.svg"},
-  {"brand": "ss", "category": "compasses", "name": "compass_10", "file": "ss/compasses/compass_10.svg"}
+  {
+    "brand": "hmh",
+    "category": "accents",
+    "name": "accent",
+    "file": "hmh/accents/accent.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "accents",
+    "name": "curved-outline-accent",
+    "file": "hmh/accents/curved-outline-accent.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "accents",
+    "name": "dotted-accent",
+    "file": "hmh/accents/dotted-accent.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "accents",
+    "name": "double-accent",
+    "file": "hmh/accents/double-accent.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "accents",
+    "name": "double-outline-accent",
+    "file": "hmh/accents/double-outline-accent.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "accents",
+    "name": "outline-accent-v2",
+    "file": "hmh/accents/outline-accent-v2.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "accents",
+    "name": "outline-accent",
+    "file": "hmh/accents/outline-accent.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "accents",
+    "name": "outline-circle-accent",
+    "file": "hmh/accents/outline-circle-accent.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "accents",
+    "name": "square-accent",
+    "file": "hmh/accents/square-accent.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "accents",
+    "name": "straight-accent",
+    "file": "hmh/accents/straight-accent.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "blobs",
+    "name": "asymmetric-blob",
+    "file": "hmh/blobs/asymmetric-blob.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "blobs",
+    "name": "blob",
+    "file": "hmh/blobs/blob.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "blobs",
+    "name": "double-oval-blob",
+    "file": "hmh/blobs/double-oval-blob.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "blobs",
+    "name": "organic-blob",
+    "file": "hmh/blobs/organic-blob.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "blobs",
+    "name": "oval-blob",
+    "file": "hmh/blobs/oval-blob.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "blobs",
+    "name": "rounded-blob",
+    "file": "hmh/blobs/rounded-blob.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "blobs",
+    "name": "rounded-oval-blob",
+    "file": "hmh/blobs/rounded-oval-blob.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "blobs",
+    "name": "tall-oval-blob",
+    "file": "hmh/blobs/tall-oval-blob.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "blobs",
+    "name": "wavy-blob",
+    "file": "hmh/blobs/wavy-blob.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "blobs",
+    "name": "wide-oval-blob",
+    "file": "hmh/blobs/wide-oval-blob.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "hearts",
+    "name": "centered-heart",
+    "file": "hmh/hearts/centered-heart.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "hearts",
+    "name": "double-heart",
+    "file": "hmh/hearts/double-heart.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "hearts",
+    "name": "double-outline-heart",
+    "file": "hmh/hearts/double-outline-heart.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "hearts",
+    "name": "geometric-heart",
+    "file": "hmh/hearts/geometric-heart.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "hearts",
+    "name": "heart-v2",
+    "file": "hmh/hearts/heart-v2.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "hearts",
+    "name": "heart",
+    "file": "hmh/hearts/heart.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "hearts",
+    "name": "rounded-chunky-heart",
+    "file": "hmh/hearts/rounded-chunky-heart.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "hearts",
+    "name": "tall-heart",
+    "file": "hmh/hearts/tall-heart.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "hearts",
+    "name": "triple-heart",
+    "file": "hmh/hearts/triple-heart.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "hearts",
+    "name": "wide-heart",
+    "file": "hmh/hearts/wide-heart.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "lightning",
+    "name": "bold-straight-lightning",
+    "file": "hmh/lightning/bold-straight-lightning.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "lightning",
+    "name": "classic-lightning",
+    "file": "hmh/lightning/classic-lightning.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "lightning",
+    "name": "cluster-double-lightning",
+    "file": "hmh/lightning/cluster-double-lightning.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "lightning",
+    "name": "compact-lightning",
+    "file": "hmh/lightning/compact-lightning.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "lightning",
+    "name": "double-lightning",
+    "file": "hmh/lightning/double-lightning.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "lightning",
+    "name": "horizontal-lightning",
+    "file": "hmh/lightning/horizontal-lightning.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "lightning",
+    "name": "outline-double-lightning",
+    "file": "hmh/lightning/outline-double-lightning.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "lightning",
+    "name": "simple-lightning",
+    "file": "hmh/lightning/simple-lightning.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "lightning",
+    "name": "thick-lightning",
+    "file": "hmh/lightning/thick-lightning.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "lightning",
+    "name": "zigzag-lightning",
+    "file": "hmh/lightning/zigzag-lightning.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "sparkles",
+    "name": "cluster-sparkle",
+    "file": "hmh/sparkles/cluster-sparkle.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "sparkles",
+    "name": "double-sparkle",
+    "file": "hmh/sparkles/double-sparkle.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "sparkles",
+    "name": "scattered-sparkle",
+    "file": "hmh/sparkles/scattered-sparkle.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "sparkles",
+    "name": "sparkle-v2",
+    "file": "hmh/sparkles/sparkle-v2.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "sparkles",
+    "name": "sparkle-v3",
+    "file": "hmh/sparkles/sparkle-v3.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "sparkles",
+    "name": "sparkle-v4",
+    "file": "hmh/sparkles/sparkle-v4.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "sparkles",
+    "name": "sparkle",
+    "file": "hmh/sparkles/sparkle.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "sparkles",
+    "name": "triple-sparkle-v2",
+    "file": "hmh/sparkles/triple-sparkle-v2.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "sparkles",
+    "name": "triple-sparkle",
+    "file": "hmh/sparkles/triple-sparkle.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "sparkles",
+    "name": "vertical-sparkle",
+    "file": "hmh/sparkles/vertical-sparkle.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "speech_bubbles",
+    "name": "bubble-v2",
+    "file": "hmh/speech_bubbles/bubble-v2.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "speech_bubbles",
+    "name": "bubble-v3",
+    "file": "hmh/speech_bubbles/bubble-v3.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "speech_bubbles",
+    "name": "bubble",
+    "file": "hmh/speech_bubbles/bubble.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "speech_bubbles",
+    "name": "cloud-bubble",
+    "file": "hmh/speech_bubbles/cloud-bubble.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "speech_bubbles",
+    "name": "rounded-tail-bubble",
+    "file": "hmh/speech_bubbles/rounded-tail-bubble.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "speech_bubbles",
+    "name": "stacked-thought-bubble",
+    "file": "hmh/speech_bubbles/stacked-thought-bubble.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "speech_bubbles",
+    "name": "tail-bubble-v2",
+    "file": "hmh/speech_bubbles/tail-bubble-v2.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "speech_bubbles",
+    "name": "tail-bubble-v3",
+    "file": "hmh/speech_bubbles/tail-bubble-v3.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "speech_bubbles",
+    "name": "tail-bubble",
+    "file": "hmh/speech_bubbles/tail-bubble.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "speech_bubbles",
+    "name": "wide-tail-bubble",
+    "file": "hmh/speech_bubbles/wide-tail-bubble.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "stars",
+    "name": "chunky-star",
+    "file": "hmh/stars/chunky-star.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "stars",
+    "name": "classic-star",
+    "file": "hmh/stars/classic-star.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "stars",
+    "name": "cluster-star",
+    "file": "hmh/stars/cluster-star.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "stars",
+    "name": "double-star",
+    "file": "hmh/stars/double-star.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "stars",
+    "name": "filled-star",
+    "file": "hmh/stars/filled-star.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "stars",
+    "name": "outline-star",
+    "file": "hmh/stars/outline-star.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "stars",
+    "name": "rounded-star",
+    "file": "hmh/stars/rounded-star.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "stars",
+    "name": "star-v2",
+    "file": "hmh/stars/star-v2.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "stars",
+    "name": "star-v3",
+    "file": "hmh/stars/star-v3.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "stars",
+    "name": "star",
+    "file": "hmh/stars/star.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "sticker_outlines",
+    "name": "organic-outline-sticker",
+    "file": "hmh/sticker_outlines/organic-outline-sticker.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "sticker_outlines",
+    "name": "outline-hexagon-sticker",
+    "file": "hmh/sticker_outlines/outline-hexagon-sticker.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "sticker_outlines",
+    "name": "outline-sticker-v2",
+    "file": "hmh/sticker_outlines/outline-sticker-v2.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "sticker_outlines",
+    "name": "outline-sticker-v3",
+    "file": "hmh/sticker_outlines/outline-sticker-v3.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "sticker_outlines",
+    "name": "outline-sticker-v4",
+    "file": "hmh/sticker_outlines/outline-sticker-v4.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "sticker_outlines",
+    "name": "outline-sticker-v5",
+    "file": "hmh/sticker_outlines/outline-sticker-v5.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "sticker_outlines",
+    "name": "outline-sticker-v6",
+    "file": "hmh/sticker_outlines/outline-sticker-v6.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "sticker_outlines",
+    "name": "outline-sticker",
+    "file": "hmh/sticker_outlines/outline-sticker.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "sticker_outlines",
+    "name": "outline-wavy-sticker",
+    "file": "hmh/sticker_outlines/outline-wavy-sticker.svg"
+  },
+  {
+    "brand": "hmh",
+    "category": "sticker_outlines",
+    "name": "rounded-outline-sticker",
+    "file": "hmh/sticker_outlines/rounded-outline-sticker.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "badges",
+    "name": "badge-v2",
+    "file": "ss/badges/badge-v2.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "badges",
+    "name": "badge-v3",
+    "file": "ss/badges/badge-v3.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "badges",
+    "name": "badge-v4",
+    "file": "ss/badges/badge-v4.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "badges",
+    "name": "badge",
+    "file": "ss/badges/badge.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "badges",
+    "name": "classic-outline-badge",
+    "file": "ss/badges/classic-outline-badge.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "badges",
+    "name": "diamond-badge",
+    "file": "ss/badges/diamond-badge.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "badges",
+    "name": "hexagon-badge",
+    "file": "ss/badges/hexagon-badge.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "badges",
+    "name": "octagon-badge",
+    "file": "ss/badges/octagon-badge.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "badges",
+    "name": "scalloped-badge",
+    "file": "ss/badges/scalloped-badge.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "badges",
+    "name": "star-badge",
+    "file": "ss/badges/star-badge.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "compasses",
+    "name": "classic-four-point-compass",
+    "file": "ss/compasses/classic-four-point-compass.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "compasses",
+    "name": "compass",
+    "file": "ss/compasses/compass.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "compasses",
+    "name": "four-point-compass",
+    "file": "ss/compasses/four-point-compass.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "compasses",
+    "name": "geometric-compass",
+    "file": "ss/compasses/geometric-compass.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "compasses",
+    "name": "layered-ringed-compass",
+    "file": "ss/compasses/layered-ringed-compass.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "compasses",
+    "name": "minimal-four-point-compass",
+    "file": "ss/compasses/minimal-four-point-compass.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "compasses",
+    "name": "ringed-compass-v2",
+    "file": "ss/compasses/ringed-compass-v2.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "compasses",
+    "name": "ringed-compass-v3",
+    "file": "ss/compasses/ringed-compass-v3.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "compasses",
+    "name": "ringed-compass",
+    "file": "ss/compasses/ringed-compass.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "compasses",
+    "name": "simple-outline-compass",
+    "file": "ss/compasses/simple-outline-compass.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "dividers",
+    "name": "angular-decorated-divider",
+    "file": "ss/dividers/angular-decorated-divider.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "dividers",
+    "name": "centered-divider",
+    "file": "ss/dividers/centered-divider.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "dividers",
+    "name": "decorated-divider-v2",
+    "file": "ss/dividers/decorated-divider-v2.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "dividers",
+    "name": "decorated-divider-v3",
+    "file": "ss/dividers/decorated-divider-v3.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "dividers",
+    "name": "decorated-divider",
+    "file": "ss/dividers/decorated-divider.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "dividers",
+    "name": "divider",
+    "file": "ss/dividers/divider.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "dividers",
+    "name": "double-divider",
+    "file": "ss/dividers/double-divider.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "dividers",
+    "name": "simple-horizontal-decorated-divider",
+    "file": "ss/dividers/simple-horizontal-decorated-divider.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "dividers",
+    "name": "simple-thick-divider",
+    "file": "ss/dividers/simple-thick-divider.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "dividers",
+    "name": "triple-dotted-divider",
+    "file": "ss/dividers/triple-dotted-divider.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "frames",
+    "name": "double-outline-frame",
+    "file": "ss/frames/double-outline-frame.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "frames",
+    "name": "outline-corner-frame",
+    "file": "ss/frames/outline-corner-frame.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "frames",
+    "name": "outline-double-frame",
+    "file": "ss/frames/outline-double-frame.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "frames",
+    "name": "outline-frame-v2",
+    "file": "ss/frames/outline-frame-v2.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "frames",
+    "name": "outline-frame-v3",
+    "file": "ss/frames/outline-frame-v3.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "frames",
+    "name": "outline-frame-v4",
+    "file": "ss/frames/outline-frame-v4.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "frames",
+    "name": "outline-frame",
+    "file": "ss/frames/outline-frame.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "frames",
+    "name": "rounded-outline-double-frame",
+    "file": "ss/frames/rounded-outline-double-frame.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "frames",
+    "name": "simple-outline-double-frame",
+    "file": "ss/frames/simple-outline-double-frame.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "frames",
+    "name": "thick-outline-frame",
+    "file": "ss/frames/thick-outline-frame.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "mountains",
+    "name": "angular-single-mountain",
+    "file": "ss/mountains/angular-single-mountain.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "mountains",
+    "name": "centered-single-mountain",
+    "file": "ss/mountains/centered-single-mountain.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "mountains",
+    "name": "dual-mountain-v2",
+    "file": "ss/mountains/dual-mountain-v2.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "mountains",
+    "name": "dual-mountain",
+    "file": "ss/mountains/dual-mountain.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "mountains",
+    "name": "layered-mountain-v2",
+    "file": "ss/mountains/layered-mountain-v2.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "mountains",
+    "name": "layered-mountain",
+    "file": "ss/mountains/layered-mountain.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "mountains",
+    "name": "mountain",
+    "file": "ss/mountains/mountain.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "mountains",
+    "name": "quad-range-mountain",
+    "file": "ss/mountains/quad-range-mountain.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "mountains",
+    "name": "simple-single-mountain",
+    "file": "ss/mountains/simple-single-mountain.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "mountains",
+    "name": "triple-layered-mountain",
+    "file": "ss/mountains/triple-layered-mountain.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "shields",
+    "name": "classic-shield",
+    "file": "ss/shields/classic-shield.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "shields",
+    "name": "pointed-shield",
+    "file": "ss/shields/pointed-shield.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "shields",
+    "name": "rounded-shield",
+    "file": "ss/shields/rounded-shield.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "shields",
+    "name": "shield-v2",
+    "file": "ss/shields/shield-v2.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "shields",
+    "name": "shield-v3",
+    "file": "ss/shields/shield-v3.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "shields",
+    "name": "shield-v4",
+    "file": "ss/shields/shield-v4.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "shields",
+    "name": "shield",
+    "file": "ss/shields/shield.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "shields",
+    "name": "simple-shield",
+    "file": "ss/shields/simple-shield.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "shields",
+    "name": "tall-shield",
+    "file": "ss/shields/tall-shield.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "shields",
+    "name": "wide-shield",
+    "file": "ss/shields/wide-shield.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "sun_moon",
+    "name": "angular-celestial",
+    "file": "ss/sun_moon/angular-celestial.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "sun_moon",
+    "name": "celestial-v2",
+    "file": "ss/sun_moon/celestial-v2.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "sun_moon",
+    "name": "celestial-v3",
+    "file": "ss/sun_moon/celestial-v3.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "sun_moon",
+    "name": "celestial-v4",
+    "file": "ss/sun_moon/celestial-v4.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "sun_moon",
+    "name": "celestial-v5",
+    "file": "ss/sun_moon/celestial-v5.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "sun_moon",
+    "name": "celestial-v6",
+    "file": "ss/sun_moon/celestial-v6.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "sun_moon",
+    "name": "celestial-v7",
+    "file": "ss/sun_moon/celestial-v7.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "sun_moon",
+    "name": "celestial-v8",
+    "file": "ss/sun_moon/celestial-v8.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "sun_moon",
+    "name": "celestial",
+    "file": "ss/sun_moon/celestial.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "sun_moon",
+    "name": "simple-celestial",
+    "file": "ss/sun_moon/simple-celestial.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "waves",
+    "name": "double-outline-line-wave",
+    "file": "ss/waves/double-outline-line-wave.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "waves",
+    "name": "double-wave-v2",
+    "file": "ss/waves/double-wave-v2.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "waves",
+    "name": "double-wave",
+    "file": "ss/waves/double-wave.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "waves",
+    "name": "layered-double-wave",
+    "file": "ss/waves/layered-double-wave.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "waves",
+    "name": "minimal-outline-line-wave",
+    "file": "ss/waves/minimal-outline-line-wave.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "waves",
+    "name": "simple-wave",
+    "file": "ss/waves/simple-wave.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "waves",
+    "name": "tight-wave",
+    "file": "ss/waves/tight-wave.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "waves",
+    "name": "triple-filled-wave",
+    "file": "ss/waves/triple-filled-wave.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "waves",
+    "name": "triple-wave",
+    "file": "ss/waves/triple-wave.svg"
+  },
+  {
+    "brand": "ss",
+    "category": "waves",
+    "name": "wave",
+    "file": "ss/waves/wave.svg"
+  }
 ]
